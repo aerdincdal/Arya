@@ -1,6 +1,6 @@
-# flutterte
+# Arya
 
-A new Flutter application.
+Mobil Programlama Dersi Vize Ödevidir. Flutter kullanılarak kodlanmış bir market uygulamasıdır.
 
 ## Getting Started
 
