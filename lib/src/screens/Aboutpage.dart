@@ -21,7 +21,7 @@ class AboutPage extends StatelessWidget {
                       'Bu uygulama Dr. Öğretim Üyesi Ahmet Cevahir ÇINAR tarafından yürütülen 3301456 kodlu '
                       'MOBİL PROGRAMLAMA dersi kapsamında '
                       '183301018 numaralı Alaaddin Erdinç Dal tarafından'
-                      ' 30 Nisan 2021 günü yapılmıştır.',
+                      ' 14 Nisan 2023 günü yapılmıştır.',
                       style: TextStyle(
                           fontSize: 23,
                           fontFamily: 'Poppins',
